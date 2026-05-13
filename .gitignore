@@ -32,3 +32,9 @@ clients/*/mix.lock
 /synth.metadata
 __pycache__/
 package-lock.json
+
+# Local build artifacts for Joomla package
+/dist/
+/release/
+/.tmp/
+/packages/pkg_ckom_gpttags/plg_system_sensogpt-*.zip

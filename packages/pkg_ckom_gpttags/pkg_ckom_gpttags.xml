@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="package" method="upgrade" version="6.0">
+    <name>pkg_ckom_gpttags</name>
+    <author>CKOM</author>
+    <creationDate>2026-05-13</creationDate>
+    <packagename>ckom_gpttags</packagename>
+    <version>0.2.1</version>
+    <description>Package CKOM - Balises GPT pour Joomla/YOOtheme.</description>
+
+    <files>
+        <file type="plugin" id="sensogpt" group="system">plg_system_sensogpt-0.2.1.zip</file>
+    </files>
+</extension>
